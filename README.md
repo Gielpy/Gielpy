@@ -6,7 +6,6 @@ Otherwise, ask me about baseball or my work if you are interested in the neurosc
 
 Thanks and see ya!
 
-![J.Gallo Face](https://github.com/Gielpy/Gielpy/blob/master/img/gallo.gif)
 
 <!--
 **Gielpy/Gielpy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
